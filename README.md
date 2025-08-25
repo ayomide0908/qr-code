@@ -11,7 +11,7 @@ It was created as part of a Frontend Mentor challenge to practice layout and sty
 ---
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://ayomide0908.github.io/qr-code/)
+https://ayomide0908.github.io/qr-code/
 
 ---
 
