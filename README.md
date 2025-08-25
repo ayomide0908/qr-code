@@ -21,4 +21,3 @@ https://ayomide0908.github.io/qr-code/
 
 ---
 
-## 📂 Project Structure
